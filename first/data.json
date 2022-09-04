@@ -1,0 +1,20 @@
+{
+    "most_active": {
+        "attacker_king": "ravi",
+        "defender_king": "ron",
+        "region": "mars",
+        "name": "abc"
+    },
+    "attacker_outcome": {
+        "win": 6,
+        "loss": 3
+    },
+    "battle_type": [
+        "water war"
+    ],
+    "defender_size": {
+        "average": "9",
+        "min": "5",
+        "max": "9"
+    }
+}
